@@ -1,7 +1,7 @@
 
 import streamlit as st
 import pickle
-import numpy as np
+import nump as np
 
 st.set_page_config(page_title="Flight Price Predictor", layout="centered")
 
